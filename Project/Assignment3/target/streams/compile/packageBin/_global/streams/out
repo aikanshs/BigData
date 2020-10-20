@@ -1,0 +1,33 @@
+[debug] Packaging C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\assignment3_2.11-1.0.jar ...
+[debug] Input file mappings:
+[debug] 	log4j.properties
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\log4j.properties
+[debug] 	Sentiment$.class
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\Sentiment$.class
+[debug] 	Sentiment.class
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\Sentiment.class
+[debug] 	SocialNetwork$.class
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\SocialNetwork$.class
+[debug] 	SocialNetwork.class
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\SocialNetwork.class
+[debug] 	sparkStreaming$$anonfun$1.class
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\sparkStreaming$$anonfun$1.class
+[debug] 	sparkStreaming$$anonfun$2.class
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\sparkStreaming$$anonfun$2.class
+[debug] 	sparkStreaming$$anonfun$3.class
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\sparkStreaming$$anonfun$3.class
+[debug] 	sparkStreaming$$anonfun$extractSentiments$1.class
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\sparkStreaming$$anonfun$extractSentiments$1.class
+[debug] 	sparkStreaming$$anonfun$extractSentiments$2.class
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\sparkStreaming$$anonfun$extractSentiments$2.class
+[debug] 	sparkStreaming$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\sparkStreaming$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class
+[debug] 	sparkStreaming$$anonfun$main$1$$anonfun$apply$1.class
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\sparkStreaming$$anonfun$main$1$$anonfun$apply$1.class
+[debug] 	sparkStreaming$$anonfun$main$1.class
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\sparkStreaming$$anonfun$main$1.class
+[debug] 	sparkStreaming$.class
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\sparkStreaming$.class
+[debug] 	sparkStreaming.class
+[debug] 	  C:\Users\moham\OneDrive\Desktop\Big Data S20\Assignments\Assignment 3\Assignment3\target\scala-2.11\classes\sparkStreaming.class
+[debug] Done packaging.

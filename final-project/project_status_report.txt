@@ -1,0 +1,11 @@
+Project Topic: Recurrent Neural Networks (RNN) for time series prediction for stock market
+
+Team Members: Aikansh Priyam 		/ AXP190019
+			  Asif Sohail Mohammed /  AXM190041
+
+Algorithm to implement: RNN/ LSTMs. 
+
+Dataset Details: Dataset of S&P 500 from kaggle will be used for prediction. The dataset contains a csv file whcih contains open, close, high and low price for a particular date.
+
+Coding Language: Python, Library that will be used for implementing the algorithm is BigDL, keras
+
